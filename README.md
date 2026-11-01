@@ -6,7 +6,7 @@ Elevene bruker ekte data til å svare på hvorfor Gabrielle ble så sterk så ra
 
 ## For elever
 
-Du trenger conda-miljøet `geofag2` fra guiden [Installere og åpne Jupyter Lab](https://github.com/Realfag-AmalieSkram/Geofag2-python).
+Du trenger conda-miljøet `geofag2` fra guiden [Installere og åpne Jupyter Lab](https://pgelisa.github.io/geofag2-python-opendrift/).
 
 **Hent filene**
 
