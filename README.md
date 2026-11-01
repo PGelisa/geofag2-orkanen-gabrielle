@@ -6,15 +6,17 @@ Elevene bruker ekte data til å svare på hvorfor Gabrielle ble så sterk så ra
 
 ## For elever
 
-Du trenger conda-miljøet `geofag2` fra guiden [Installere og åpne Jupyter Lab](https://pgelisa.github.io/geofag2-python-opendrift/).
+**Se notatboken uten å installere noe.** Trykk på `orkanen_gabrielle_kjort.ipynb` i fillisten ovenfor. Det er en ferdig kjørt versjon, så du ser alle figurene og tallene rett i nettleseren.
+
+**Vil du kjøre koden selv**, trenger du conda-miljøet `geofag2` fra guiden [Installere og åpne Jupyter Lab](https://pgelisa.github.io/geofag2-python-opendrift/).
 
 **Hent filene**
 
 1. Trykk den grønne knappen **Code** øverst på denne siden og velg **Download ZIP**.
-2. Flytt zip-fila fra Nedlastinger til geofag-mappen din før du pakker den ut.
-   - **Mac:** dobbeltklikk zip-fila i geofag-mappen.
-   - **Windows:** høyreklikk zip-fila og velg **Pakk ut alle**. Velg geofag-mappen som mål.
-3. Slett zip-fila fra Nedlastinger.
+2. Flytt zip-filen fra Nedlastinger til geofag-mappen din før du pakker den ut.
+   - **Mac:** dobbeltklikk zip-filen i geofag-mappen.
+   - **Windows:** høyreklikk zip-filen og velg **Pakk ut alle**. Velg geofag-mappen som mål.
+3. Slett zip-filen fra Nedlastinger.
 
 Kan du bruke git, går det også fint med `git clone`.
 
