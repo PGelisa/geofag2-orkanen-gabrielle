@@ -22,7 +22,7 @@ orkanen-gabrielle/
     └── argo_gabrielle.csv                         lages av skriptet (--argo)
 ```
 
-Notatboken leser filene fra `data/` ved siden av seg selv. Legg hele mappen i repoet, så kan elevene klone repoet eller laste ned zip-fila fra GitHub og pakke den ut i geofag-mappen sin. Da slipper de å bruke Nedlastinger-mappen.
+Notatboken leser filene fra `data/` ved siden av seg selv. Legg hele mappen i repoet, så kan elevene klone repoet eller laste ned zip-fila fra GitHub og pakke den ut i mappen `Geofag2-filer` fra installasjonsguiden. Da slipper de å bruke Nedlastinger-mappen.
 
 ## Forberedelse (ca. 30 min, én gang)
 
