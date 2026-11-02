@@ -8,15 +8,17 @@ Elevene bruker ekte data til å svare på hvorfor Gabrielle ble så sterk så ra
 
 **Se notatboken uten å installere noe.** Trykk på `orkanen_gabrielle_kjort.ipynb` i fillisten ovenfor. Det er en ferdig kjørt versjon, så du ser alle figurene og tallene rett i nettleseren.
 
-**Vil du kjøre koden selv**, trenger du conda-miljøet `geofag2` fra guiden [Installere og åpne Jupyter Lab](https://pgelisa.github.io/geofag2-python-opendrift/).
+**Vil du kjøre koden selv**, trenger du conda-miljøet `geofag2` og mappen `Geofag2-filer` fra guiden [Installere og åpne Jupyter Lab](https://pgelisa.github.io/geofag2-python-opendrift/).
 
 **Hent filene**
 
 1. Trykk den grønne knappen **Code** øverst på denne siden og velg **Download ZIP**.
-2. Flytt zip-filen fra Nedlastinger til geofag-mappen din før du pakker den ut.
-   - **Mac:** dobbeltklikk zip-filen i geofag-mappen.
-   - **Windows:** høyreklikk zip-filen og velg **Pakk ut alle**. Velg geofag-mappen som mål.
+2. Flytt zip-filen fra Nedlastinger til mappen `Geofag2-filer` før du pakker den ut. Mappen lager du i steg 3 i guiden.
+   - **Mac:** dobbeltklikk zip-filen i `Geofag2-filer`.
+   - **Windows:** høyreklikk zip-filen og velg **Pakk ut alle**. Velg `Geofag2-filer` som mål.
 3. Slett zip-filen fra Nedlastinger.
+
+Finner du ikke `Geofag2-filer`? Skriv `cd Geofag2-filer` i Terminal (Mac) eller Miniforge Prompt (Windows), og deretter `open .` (Mac) eller `explorer .` (Windows). Da åpnes mappen i Finder eller Filutforsker.
 
 Kan du bruke git, går det også fint med `git clone`.
 
@@ -24,6 +26,7 @@ Kan du bruke git, går det også fint med `git clone`.
 
 ```
 conda activate geofag2
+cd Geofag2-filer
 jupyter lab
 ```
 
